@@ -1,3 +1,13 @@
+<h1 align="center"> SISTEM PENGELOLAAN ARSIP SURAT BERBASIS WEBSITE </h1>
+<br>
+<h3>USER SEEDER</h3>
+<p>STAFF</p>
+<p>USERNAME/NIP : 123456</p>
+<p>PASSWORD123</p>
+<br>
+<p>ADMIN</p>
+<p>USERNAME/NIP : 654321</p>
+<p>PASSWORD123</p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
